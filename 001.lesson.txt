@@ -1,0 +1,10 @@
+** make sure he has all of his other work done **
+ -- Setup display 
+ -- Setup slack communications
+     - establish future communications through here for scheduling
+ -- look over the course check list
+ -- Setup an ssh connection
+ -- Discuss deep sync and open ai
+ -- Have him create a git repo and keep notes in there using vim and text files
+ -- pin links to slack channel 
+ -- setup mechanism for scheduling lessons and remote lessons
