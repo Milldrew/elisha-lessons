@@ -1,0 +1,25 @@
+-- setup ssh server on mac 
+-- connect to the tmux session
+-- show vim netrw
+-- introduce the .zshrc
+-- introduce the .vimrc
+Trick out vim
+  Setup Vim plug
+    install vim-airline
+    install vim-commentary
+────────────────────────────────
+    set showcmd
+    set number
+    set tabstop=2
+    set shiftwidth=2
+    set expandtab
+    set autoindent
+────────────────────────────────
+drill vimtutor
+and drill software engineering academy 
+────────────────────────────────
+git init
+github.com
+create configs
+────────────────────────────────
+synchronize configs with other laptop
