@@ -1,3 +1,18 @@
+**************************************************************
+Instruct Elisha to use vim for notes and to use vimtutor
+Elisha might want to use vim for all writing and note taking
+**************************************************************
+-- Set a deadline for se 100
+====== BETTER LESSON
+Setup mac with ssh server
+connect to it 
+install development tools
+install Node Version Manager
+Run some javascript
+
+Build a browser bot
+
+====== BORING LESSON
 -- setup ssh server on mac 
 -- connect to the tmux session
 -- show vim netrw
