@@ -9,8 +9,14 @@ connect to it
 install development tools
 install Node Version Manager
 Run some javascript
-
 Build a browser bot
+Setup VimPlug
+Install Coc and 
+coc-tsserver
+coc-prettier
+
+while he is doing vimtutor on mac
+set the student user on the lenovo as an admin and get rid of milldrew
 
 ====== BORING LESSON
 -- setup ssh server on mac 
